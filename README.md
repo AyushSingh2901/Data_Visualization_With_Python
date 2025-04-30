@@ -1,6 +1,6 @@
 # LAPD Crime Data Analysis Tool
 
-This project performs exploratory data analysis (EDA) and visualizations on crime data from Los Angeles, spanning from 2020 to the present. The tool allows users to interactively explore crime trends, patterns by time and location, and the most common types of crimes reported.
+This project performs exploratory data analysis (EDA) and visualizations on crime data from Los Angeles, spanning from 2020 to the present. The tool allows users to interactively explore crime trends , patterns by time and location, and the most common types of crimes reported.
 
 ## 📂 Dataset
 
